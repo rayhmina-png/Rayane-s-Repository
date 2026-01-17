@@ -1,2 +1,2 @@
-# Rayane-s-Repository
-A collection of all the things Rayane Hmina has accomplished, created, or attended.
+# Rayane-s-Portfolio
+A collection of all the things I have accomplished, created, or attended.
